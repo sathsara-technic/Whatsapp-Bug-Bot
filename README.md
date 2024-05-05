@@ -1,24 +1,24 @@
-# Avi-x-angel
+# Sathsara Modz
 
-''' future whatsapp bot created by Avishka shavinda '''
+''' future whatsapp bot created by Sathsara Modz '''
 
 
-# Team Avi - infinite Edition ✓ 
+# Team Sathsara - Termux Tool ✔️
 
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=AVISHKA+SHAVINDA" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SATHSARA+MODZ" alt="">
 </p> 
  
 <p align="center"> 
-<u>𝓐𝓿𝓲-𝔁-𝓪𝓷𝓰𝓮𝓵</u>
+<u>𝗦𝗔𝗧𝗛𝗦𝗔𝗥𝗔</u>
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/avishka33/Avi-x-angel/main/AVI%20ANGEL.jpg" width="300" height="300"/>
 </p>
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝘼𝙫𝙞+𝙞𝙣𝙛𝙞𝙣𝙖𝙩𝙚+𝙀𝙙𝙞𝙩𝙞𝙤𝙣" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝗦𝗔𝗧𝗛𝗦𝗔𝗥𝗔+𝗧𝗘𝗥𝗠𝗨𝗫+𝗧𝗢𝗢𝗟" alt="">
 </p> 
 
 
@@ -39,7 +39,7 @@
 
 
 
-# 𝓐𝓿𝓲-𝔁-𝓪𝓷𝓰𝓮𝓵 - Paircode
+# 𝗦𝗔𝗧𝗛𝗦𝗔𝗥𝗔 - Paircode
 https://replit.com/@AvishkaShavinda/Avi-paircode?v=1
 
 # heroku template
